@@ -14,4 +14,7 @@
       <option name="ERROR_STRIPE_COLOR" value="ff" />
     </pattern>
   </component>
+  <component name="XmlEditorOptions">
+    <option name="tagTreeHighlightingLevelCount" value="7" />
+  </component>
 </application>
