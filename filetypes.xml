@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="Pechka54Tester" type="PLAIN_TEXT" />
       <mapping pattern="_ready_for_craete_alert.php" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
