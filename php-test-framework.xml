@@ -1,6 +1,24 @@
 <application>
+  <component name="PhpTestFrameworkSettings">
+    <test_tools>
+      <tool tool_name="Codeception">
+        <settings>
+          <configurations>
+            <configuration_by_sdk interpreter_id="985764be-6c30-4fa4-bc68-8c1cbe3f6781" executable_path="/vagrant/dev.100sp/vendor/codeception/codeception/codecept" />
+          </configurations>
+        </settings>
+      </tool>
+    </test_tools>
+  </component>
   <component name="PhpTestFrameworkVersionCache">
     <tools_cache>
+      <tool tool_name="Codeception">
+        <cache>
+          <versions>
+            <info id="interpreter-985764be-6c30-4fa4-bc68-8c1cbe3f6781" version="3.1.1" />
+          </versions>
+        </cache>
+      </tool>
       <tool tool_name="PHPUnit">
         <cache>
           <versions>
