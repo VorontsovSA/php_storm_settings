@@ -17,6 +17,14 @@
           <option name="port" value="10022" />
         </fileTransfer>
       </webServer>
+      <webServer id="40fbfe5b-81b8-4d17-8ba3-01004b2f8a97" name="HAPROOT" url="http://sp.uk71.ru">
+        <fileTransfer host="uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1567" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
