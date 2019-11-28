@@ -8,6 +8,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="PHP">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
