@@ -45,16 +45,16 @@
         <entry key="CreateRunConfiguration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581317556652" />
-              <option name="times" value="6" />
+              <option name="last" value="1581319061584" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581316675192" />
-              <option name="times" value="141" />
+              <option name="last" value="1581319069586" />
+              <option name="times" value="142" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581317110425" />
-              <option name="times" value="37" />
+              <option name="last" value="1581319253018" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="RunClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581317288755" />
-              <option name="times" value="3" />
+              <option name="last" value="1581319090433" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="com.intellij.ui.CommonActionsPanel$EditButton">
           <value>
             <ActionSummary>
-              <option name="last" value="1581317565647" />
-              <option name="times" value="6" />
+              <option name="last" value="1581319067828" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
