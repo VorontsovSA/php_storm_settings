@@ -2,11 +2,27 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Redo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581323906390" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581302383041" />
-              <option name="times" value="6" />
+              <option name="last" value="1581323906909" />
+              <option name="times" value="9" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Back">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581323976694" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +229,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581308517640" />
-              <option name="times" value="44" />
+              <option name="last" value="1581324116070" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
@@ -290,6 +306,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Forward">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581323603623" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoAction">
           <value>
             <ActionSummary>
@@ -301,8 +325,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581303853859" />
-              <option name="times" value="12" />
+              <option name="last" value="1581324016675" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,16 +373,16 @@
         <entry key="RunClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581322389556" />
-              <option name="times" value="6" />
+              <option name="last" value="1581324121250" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581321304306" />
-              <option name="times" value="9" />
+              <option name="last" value="1581323404997" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -426,11 +450,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581323851479" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581321308420" />
-              <option name="times" value="13" />
+              <option name="last" value="1581323407852" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
