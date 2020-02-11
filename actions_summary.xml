@@ -421,16 +421,16 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581399121525" />
-              <option name="times" value="21" />
+              <option name="last" value="1581402883428" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1581401825339" />
-              <option name="times" value="27" />
+              <option name="last" value="1581403202364" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -509,8 +509,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581399138133" />
-              <option name="times" value="30" />
+              <option name="last" value="1581402889147" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,8 +557,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581391633382" />
-              <option name="times" value="19" />
+              <option name="last" value="1581402888795" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
@@ -575,6 +575,14 @@
             <ActionSummary>
               <option name="last" value="1581398658565" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581403238510" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
