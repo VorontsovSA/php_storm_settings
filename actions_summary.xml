@@ -29,16 +29,16 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581486426938" />
-              <option name="times" value="4" />
+              <option name="last" value="1581487113818" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581401904606" />
-              <option name="times" value="21" />
+              <option name="last" value="1581487378531" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorDown">
           <value>
             <ActionSummary>
-              <option name="last" value="1581396888434" />
-              <option name="times" value="72" />
+              <option name="last" value="1581487125331" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
@@ -221,8 +221,8 @@
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581475124877" />
-              <option name="times" value="24" />
+              <option name="last" value="1581487128626" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,8 +237,8 @@
         <entry key="EditorLineStart">
           <value>
             <ActionSummary>
-              <option name="last" value="1581475107311" />
-              <option name="times" value="11" />
+              <option name="last" value="1581487129113" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -269,8 +269,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581486427257" />
-              <option name="times" value="64" />
+              <option name="last" value="1581487114178" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -325,8 +325,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581396887755" />
-              <option name="times" value="23" />
+              <option name="last" value="1581487126169" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="ReformatCode">
           <value>
             <ActionSummary>
-              <option name="last" value="1581486428176" />
-              <option name="times" value="7" />
+              <option name="last" value="1581487115115" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -647,6 +647,38 @@
             <ActionSummary>
               <option name="last" value="1581403238510" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="osmedile.intellij.stringmanip.DecodeHexAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581487365534" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="osmedile.intellij.stringmanip.EscapeJsonAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581487376710" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="osmedile.intellij.stringmanip.URLDecodeAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581487354678" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="osmedile.intellij.stringmanip.UnescapeJsonAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581487385712" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
