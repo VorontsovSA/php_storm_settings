@@ -173,8 +173,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581660128980" />
-              <option name="times" value="572" />
+              <option name="last" value="1581660878230" />
+              <option name="times" value="574" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581659931508" />
-              <option name="times" value="55" />
+              <option name="last" value="1581660875808" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1581660159611" />
-              <option name="times" value="27" />
+              <option name="last" value="1581665978395" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -701,8 +701,8 @@
         <entry key="WelcomeScreen.Settings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581659932853" />
-              <option name="times" value="52" />
+              <option name="last" value="1581660880284" />
+              <option name="times" value="53" />
             </ActionSummary>
           </value>
         </entry>
@@ -789,8 +789,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581660130196" />
-              <option name="times" value="143" />
+              <option name="last" value="1581660880279" />
+              <option name="times" value="144" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581659964604" />
-              <option name="times" value="27" />
+              <option name="last" value="1581665977023" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
