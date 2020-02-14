@@ -14,7 +14,7 @@
       </interpreter>
       <interpreter id="ec601cee-7759-40db-babe-6e3de4ecfeae" isInterpreterPathAutoConfigured="true" name="Docker PHP paygate 7.4" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker Paygate" DOCKER_COMPOSE_SERVICE_NAME="php" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-          <type_data command="RUN" />
+          <type_data command="EXEC" />
           <dockerComposeConfigurationPaths>
             <item value="C:/100sp/vm/paygate/docker-compose.yml" />
           </dockerComposeConfigurationPaths>
