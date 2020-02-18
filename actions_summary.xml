@@ -173,8 +173,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010872203" />
-              <option name="times" value="637" />
+              <option name="last" value="1582014842151" />
+              <option name="times" value="640" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,8 +461,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581993760108" />
-              <option name="times" value="115" />
+              <option name="last" value="1582014849243" />
+              <option name="times" value="116" />
             </ActionSummary>
           </value>
         </entry>
@@ -621,8 +621,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010214201" />
-              <option name="times" value="62" />
+              <option name="last" value="1582014838943" />
+              <option name="times" value="63" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010867861" />
-              <option name="times" value="176" />
+              <option name="last" value="1582014846653" />
+              <option name="times" value="177" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +925,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010358992" />
-              <option name="times" value="132" />
+              <option name="last" value="1582014846220" />
+              <option name="times" value="133" />
             </ActionSummary>
           </value>
         </entry>
