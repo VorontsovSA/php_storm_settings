@@ -613,8 +613,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1581921749341" />
-              <option name="times" value="55" />
+              <option name="last" value="1581989500565" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
@@ -630,6 +630,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581654550698" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ServiceView.ActivateSshServiceViewContributor">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581989491405" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -709,16 +717,16 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581896685949" />
-              <option name="times" value="24" />
+              <option name="last" value="1581989408295" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="WelcomeScreen.Settings">
           <value>
             <ActionSummary>
-              <option name="last" value="1581988750684" />
-              <option name="times" value="63" />
+              <option name="last" value="1581989511934" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -805,8 +813,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581988750676" />
-              <option name="times" value="157" />
+              <option name="last" value="1581989511926" />
+              <option name="times" value="162" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +861,8 @@
         <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1581655755093" />
-              <option name="times" value="20" />
+              <option name="last" value="1581989528172" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -901,16 +909,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581988487056" />
-              <option name="times" value="85" />
+              <option name="last" value="1581989489214" />
+              <option name="times" value="87" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$7">
           <value>
             <ActionSummary>
-              <option name="last" value="1581921761848" />
-              <option name="times" value="14" />
+              <option name="last" value="1581989489638" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -1029,8 +1037,8 @@
         <entry key="tasks.goto">
           <value>
             <ActionSummary>
-              <option name="last" value="1581654605779" />
-              <option name="times" value="2" />
+              <option name="last" value="1581989433406" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
