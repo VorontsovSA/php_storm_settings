@@ -61,8 +61,8 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582166318393" />
-              <option name="times" value="19" />
+              <option name="last" value="1582167747116" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582166213473" />
-              <option name="times" value="229" />
+              <option name="last" value="1582167798905" />
+              <option name="times" value="231" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1582161967695" />
-              <option name="times" value="36" />
+              <option name="last" value="1582167729158" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582166125419" />
-              <option name="times" value="313" />
+              <option name="last" value="1582167597609" />
+              <option name="times" value="315" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582166227322" />
-              <option name="times" value="55" />
+              <option name="last" value="1582167592729" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582166238610" />
-              <option name="times" value="14" />
+              <option name="last" value="1582167606506" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010430900" />
-              <option name="times" value="35" />
+              <option name="last" value="1582167762087" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
