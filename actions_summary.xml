@@ -221,8 +221,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582245502987" />
-              <option name="times" value="1157" />
+              <option name="last" value="1582246862370" />
+              <option name="times" value="1158" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorDelete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582244912229" />
-              <option name="times" value="303" />
+              <option name="last" value="1582246865580" />
+              <option name="times" value="304" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582243443548" />
-              <option name="times" value="252" />
+              <option name="last" value="1582246863531" />
+              <option name="times" value="253" />
             </ActionSummary>
           </value>
         </entry>
@@ -357,8 +357,8 @@
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1582244911277" />
-              <option name="times" value="164" />
+              <option name="last" value="1582246865386" />
+              <option name="times" value="165" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582244484600" />
-              <option name="times" value="75" />
+              <option name="last" value="1582246771858" />
+              <option name="times" value="76" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582244485392" />
-              <option name="times" value="202" />
+              <option name="last" value="1582246774506" />
+              <option name="times" value="203" />
             </ActionSummary>
           </value>
         </entry>
