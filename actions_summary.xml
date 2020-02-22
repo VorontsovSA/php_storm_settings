@@ -245,8 +245,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582337516566" />
-              <option name="times" value="342" />
+              <option name="last" value="1582342466493" />
+              <option name="times" value="344" />
             </ActionSummary>
           </value>
         </entry>
@@ -381,8 +381,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582337535565" />
-              <option name="times" value="462" />
+              <option name="last" value="1582342473797" />
+              <option name="times" value="464" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="GotoLine">
           <value>
             <ActionSummary>
-              <option name="last" value="1582268585863" />
-              <option name="times" value="7" />
+              <option name="last" value="1582342394724" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="SearchEverywhere">
           <value>
             <ActionSummary>
-              <option name="last" value="1582335136042" />
-              <option name="times" value="83" />
+              <option name="last" value="1582342391599" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +829,8 @@
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1582339241209" />
-              <option name="times" value="28" />
+              <option name="last" value="1582342537798" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -1021,8 +1021,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582335139882" />
-              <option name="times" value="212" />
+              <option name="last" value="1582342392771" />
+              <option name="times" value="213" />
             </ActionSummary>
           </value>
         </entry>
