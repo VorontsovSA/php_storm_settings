@@ -493,8 +493,8 @@
         <entry key="FileStructurePopup">
           <value>
             <ActionSummary>
-              <option name="last" value="1582357646897" />
-              <option name="times" value="20" />
+              <option name="last" value="1582595102401" />
+              <option name="times" value="21" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582359804953" />
-              <option name="times" value="655" />
+              <option name="last" value="1582595090953" />
+              <option name="times" value="657" />
             </ActionSummary>
           </value>
         </entry>
@@ -1045,8 +1045,8 @@
         <entry key="com.intellij.ide.util.FileStructurePopup$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582350351722" />
-              <option name="times" value="16" />
+              <option name="last" value="1582595103697" />
+              <option name="times" value="17" />
             </ActionSummary>
           </value>
         </entry>
