@@ -8,6 +8,13 @@
           </versions>
         </cache>
       </tool>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="interpreter-210ffaf1-119d-4646-9b7f-efe277caca32" version="8.5.2" />
+          </versions>
+        </cache>
+      </tool>
     </tools_cache>
   </component>
 </application>
