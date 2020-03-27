@@ -13,6 +13,9 @@
       <sshConfig authType="PASSWORD" host="uk71.ru" id="f46dfe58-0613-4218-9c00-c3143294f0c1" port="1567" />
       <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="66e3787c-4901-4858-9e75-3259fcfb9bdc" port="10022" />
       <sshConfig authType="PASSWORD" host="uk71.ru" id="9190df66-8936-4585-a801-8a7c5327cda1" port="1567" />
+      <sshConfig authType="PASSWORD" host="uk71.ru" id="43869670-672a-4785-8868-3509ce3e3182" port="1567" nameFormat="DESCRIPTIVE" />
+      <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="844d5420-e8d0-46b7-8bc9-1080ce026d3f" port="10022" nameFormat="DESCRIPTIVE" />
+      <sshConfig authType="PASSWORD" host="uk71.ru" id="567db75f-5102-4e72-9551-6c4837613b97" port="1567" nameFormat="DESCRIPTIVE" />
     </configs>
   </component>
 </application>
