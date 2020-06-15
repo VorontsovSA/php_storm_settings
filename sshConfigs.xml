@@ -2,9 +2,13 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="uk71.ru" id="d9d1d7e2-9185-43cd-8da9-decd02b82c86" port="1567" username="vorontsovsa" />
-      <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="ef7d1f15-91e8-49f5-a97e-d3537018fdcc" port="10022" />
+      <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="ef7d1f15-91e8-49f5-a97e-d3537018fdcc" port="10022" customName="UKSR" nameFormat="CUSTOM">
+        <option name="customName" value="UKSR" />
+      </sshConfig>
       <sshConfig authType="PASSWORD" host="uk71.ru" id="11bc5e79-bfb5-4874-8c72-f4d2c1f70d9b" port="1567" username="root" />
-      <sshConfig authType="PASSWORD" host="uk71.ru" id="f2f14b13-0d50-48e8-9a70-70a5c5b2ca58" port="1567" />
+      <sshConfig authType="PASSWORD" host="uk71.ru" id="f2f14b13-0d50-48e8-9a70-70a5c5b2ca58" port="1567" customName="HAP" nameFormat="CUSTOM">
+        <option name="customName" value="HAP" />
+      </sshConfig>
       <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="66aeec69-8ef5-4d09-b60e-6cb2ed12f21a" port="10022" />
       <sshConfig authType="PASSWORD" host="uk71.ru" id="2968489f-9983-4d62-a5d9-1ff40ad17c62" port="1567" />
       <sshConfig authType="PASSWORD" host="uk71.ru" id="2d2a0ce8-3285-4a9b-b993-2f2041117a5e" port="1567" />
