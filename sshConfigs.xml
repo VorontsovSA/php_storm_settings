@@ -28,6 +28,9 @@
       <sshConfig authType="PASSWORD" host="uk71.ru" id="dc8c73a7-e590-49f6-84cf-a527155f4bd7" port="1567" customName="HAP" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="4d8c2810-4f6f-4f90-9523-c757bc8f8084" port="10022" customName="UKSR" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="uk71.ru" id="e5d03dc2-f46c-469f-b997-22c2ab672148" port="1567" customName="HAPROOT" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="uk71.ru" id="e599fd69-955e-425a-b8e2-d40122180088" port="1567" customName="HAP" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="hap.uksr.ru" id="306aa5b9-be8b-4a89-b400-d8dee58a3b83" port="10022" customName="UKSR" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="uk71.ru" id="d3797f76-17fc-4cae-8cdc-173930806148" port="1567" customName="HAPROOT" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
