@@ -2,27 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a1c17d54-1b11-42ab-aa6e-c8e36add711f" name="HAP" url="http://uk71.ru">
-        <fileTransfer host="uk71.ru" port="1567" rootFolder="/home/vorontsovsa/" accessType="SFTP">
+        <fileTransfer rootFolder="/home/vorontsovsa/" accessType="SFTP" host="uk71.ru" port="1567" sshConfigId="e599fd69-955e-425a-b8e2-d40122180088" sshConfig="HAP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
       <webServer id="9e3231e0-361c-4902-8bae-7becf508a667" name="UKSR" url="http://hap.uksr.ru">
-        <fileTransfer host="hap.uksr.ru" port="10022" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="hap.uksr.ru" port="10022" sshConfigId="306aa5b9-be8b-4a89-b400-d8dee58a3b83" sshConfig="UKSR">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="10022" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="40fbfe5b-81b8-4d17-8ba3-01004b2f8a97" name="HAPROOT" url="http://sp.uk71.ru">
-        <fileTransfer host="uk71.ru" port="1567" rootFolder="/srv/www/sfprojects/sp.uk71.ru" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="1567" />
         </fileTransfer>
       </webServer>
     </option>
